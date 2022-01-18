@@ -70,8 +70,6 @@ Benutzerfreundlichkeit und intuitive Bedienung erleichtern es, in kürzester Zei
 
 Sie können EditMD **kostenlos** herunterladen und nutzen.  
 
-[Download](https://drive.google.com/file/d/12yidnegiBGyCZ8HwbHoYrDhzcgZGItXU/view?usp=sharing "EditMD downloaden")  
-
 <a href="EditMD_install.zip">EditMD downloaden</a>  
 
 ![](EditMD_fenster.png)  
