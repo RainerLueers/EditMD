@@ -70,7 +70,9 @@ Benutzerfreundlichkeit und intuitive Bedienung erleichtern es, in kürzester Zei
 
 Sie können EditMD **kostenlos** herunterladen und nutzen.  
 
-[Download](https://drive.google.com/file/d/1ldDOXq_9wQRHvnXj-2GyJ4cgMXaNSon1/view?usp=sharing "BackUPs downloaden")  
+[Download](https://drive.google.com/file/d/12yidnegiBGyCZ8HwbHoYrDhzcgZGItXU/view?usp=sharing "EditMD downloaden")  
+
+[Download](href="EditMD_install.zip" "EditMD downloaden")  
 
 ![](EditMD_fenster.png)  
 ***EditMD*** Arbeitsbereich
