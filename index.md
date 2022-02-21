@@ -1,7 +1,6 @@
 ---
 title: EditMD
 ---  
-![](EditMD_logo.png)
 
 # Worum es geht ?
 
