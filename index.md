@@ -15,8 +15,10 @@ und erklären, warum Sie ihn verwenden sollten.
 Wenn es um die Formatierung geht, verwenden die meisten Leute den integrierten Editor
 ihres Content-Management-Systems, um z.B. Überschriften zu erstellen, den Text kursiv zu
 setzen oder Listen zu erstellen...  
+
 Dabei müssen Sie sich aber nicht auf ein kompliziertes und undurchsichtiges Funktionsangebot
 dieser komplizierten Systeme verlassen.  
+
 Sie können stattdessen einfach einen **Markdown-Editor** verwenden.  
 
 Ich möchte Ihnen hier kurz erklären, was ein Markdown-Editor ist. Das Ziel ist es, 
@@ -39,6 +41,7 @@ nachdem John Gruber von Daring Fireball, die Markdown-Syntax im Jahr 2004 eingef
 Nachdem er frustriert war, mühsam HTML-Codes zum Formatieren seiner Texte schreiben zu müssen,
 entwickelten er und sein Freund Aaron Swartz eine Klartext-Formatierungssyntax, mit der es möglich wurde,
 Textinhalte schnell und einfach in HTML zu übersetzen.  
+
 Das war die Geburtsstunde von Markdown.  
 
 Die Sprache verwendet eine leicht zu erlernende Syntax, um das gleiche Ziel wie HTML zu erreichen.
@@ -49,6 +52,7 @@ Gegenteil zur HTML-Codierung.
 Um einen Text webfähig zu machen, verwendet Markdown Zeichen und Symbole, mit denen Sie bereits 
 vertraut sind. Die Anwendung ist leicht erlernbar und wird in den meisten Editoren durch 
 Menü-Befehle unterstützt, die eigentlich die Funktion einer Gedächtnisstütze haben.  
+
 Nach kurzer Einarbeitungszeit beherrschen Sie alle Markdown-Codes und können Ihre 
 Texte flüssig mit der Tastatur erstellen und formatieren.  
 
@@ -77,7 +81,7 @@ Sie können EditMD **kostenlos** herunterladen und nutzen.
 
 <a href="EditMD_install.zip">EditMD downloaden</a>  
 
-![](EditMD_fenster.png)  
+![](editmd_frame.png)  
 ***EditMD*** Arbeitsbereich
 
 EditMD is completely free to use for both individuals and businesses,
