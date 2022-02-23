@@ -77,6 +77,14 @@ In der kostenlosen Software **EditMD** von Rainer Lüers sind alle oben genannte
 Das Programm überzeugt durch eine am täglichen Gebrauch orientierte Benutzeroberfläche.
 Benutzerfreundlichkeit und intuitive Bedienung erleichtern es, in kürzester Zeit komplexe Seiten zu gestalten.  
 
+## Systemvoraussetzungen
+
+EditMD wurde in Java mit dem JDK 17.01 programmiert und kann in jeder Umgebung ausgeführt
+werden, die ein Java Runtime Environment (JRE) der Version 17.01 oder höher bereitstellt.
+EditMD wurde unter **Ubuntu 21.10** und **Windows 10** erfolgreich getestet.
+
+## Download
+
 Sie können EditMD **kostenlos** herunterladen und nutzen.  
 
 <a href="EditMD_install.zip">EditMD downloaden</a>  
